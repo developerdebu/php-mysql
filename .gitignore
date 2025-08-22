@@ -1,0 +1,5 @@
+# DDEV config folder
+.ddev/
+
+# PHP vendor dependencies
+vendor/
