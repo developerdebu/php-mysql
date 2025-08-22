@@ -2,9 +2,6 @@
     "name": "pauld/php-mvc",
     "description": "PHP MVC codebase",
     "type": "project",
-    "require": {
-        "vendor/package": "*"
-    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
