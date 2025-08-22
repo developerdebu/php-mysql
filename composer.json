@@ -1,0 +1,21 @@
+{
+    "name": "pauld/php-mvc",
+    "description": "PHP MVC codebase",
+    "type": "project",
+    "require": {
+        "vendor/package": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pauld\\PhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Debapriya Paul",
+            "email": "developer.debu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
